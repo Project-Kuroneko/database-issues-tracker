@@ -2,7 +2,7 @@
 name: Correct an error
 about: Used for database entry corrections.
 title: "[Correction for Archive Entry] (insert Archive Reference Number)"
-labels: ''
+labels: correction, priority
 assignees: Project-Kuroneko
 
 ---

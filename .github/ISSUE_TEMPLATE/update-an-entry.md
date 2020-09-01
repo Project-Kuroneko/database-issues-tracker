@@ -2,7 +2,7 @@
 name: Update an entry
 about: Used to update outdated information.
 title: "[Update for Archive Entry] (insert Archive Reference Number) "
-labels: ''
+labels: priority, entry update
 assignees: Project-Kuroneko
 
 ---

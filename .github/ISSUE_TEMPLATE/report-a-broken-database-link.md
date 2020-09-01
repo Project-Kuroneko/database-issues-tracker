@@ -2,7 +2,7 @@
 name: Report a broken database link
 about: Report broken links from the database
 title: "[Broken Database Link] (insert Database Entry Discriminator here)"
-labels: ''
+labels: broken database link
 assignees: Project-Kuroneko
 
 ---
