@@ -2,8 +2,8 @@
 name: Report a broken database link
 about: Report broken links from the database
 title: "[Broken Database Link] (insert Database Entry Discriminator here)"
-labels: Broken Database Link
-assignees: TetsuoShizu
+labels: ''
+assignees: Project-Kuroneko
 
 ---
 

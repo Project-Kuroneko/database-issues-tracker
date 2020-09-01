@@ -2,8 +2,8 @@
 name: Database entry removal (DMCA Form)
 about: Use this to remove a database entry.
 title: "[Remove Database Entry] (insert Database Entry Discriminator here)"
-labels: Database Entry Removal, Priority
-assignees: TetsuoShizu
+labels: ''
+assignees: Project-Kuroneko
 
 ---
 

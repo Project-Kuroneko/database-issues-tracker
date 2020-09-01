@@ -1,9 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for the archive
+about: Suggest an idea for the database
 title: "[Feature Request] (insert request here)"
 labels: enhancement
-assignees: TetsuoShizu
+assignees: Project-Kuroneko
 
 ---
 

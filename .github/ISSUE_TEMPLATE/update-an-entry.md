@@ -2,12 +2,12 @@
 name: Update an entry
 about: Used to update outdated information.
 title: "[Update for Archive Entry] (insert Archive Reference Number) "
-labels: Entry Update
-assignees: TetsuoShizu
+labels: ''
+assignees: Project-Kuroneko
 
 ---
 
-# Archive Reference Number/Database Entry Discrminator: [example: SLI-20-0000 or DB-000000]
+# Database Entry Discriminator: [example: DB-000000]
 
 ## Outdated information:
 ## Updated information:
